@@ -1,1 +1,2 @@
-The firts readme
+The first readme
+updated
